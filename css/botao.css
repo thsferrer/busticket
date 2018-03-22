@@ -1,0 +1,25 @@
+.introducao_botao {
+	width: 100%;
+	height: 700px;
+	background: url("fundo.jpg") no-repeat center;
+	background-size: cover;
+	text-align: center;
+	padding-top: 350px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+
+.intro_start
+{
+	padding-top:90px;
+}
+
+.intro_intro	
+{
+
+}
+
+.intro_end
+{
+
+}

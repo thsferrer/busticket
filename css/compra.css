@@ -1,0 +1,36 @@
+.introducao_compra{
+	width: 100%;
+	height: 1250px;
+	background: url("fundo.jpg") no-repeat center;
+	background-size: cover;
+	text-align: center;
+	padding-top:350px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+.introducao_compra h1 {
+	font-size: 48px;
+	color: #FFF;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+
+#total{
+
+	color: #2A2A2A;
+}
+.intro_start
+{
+}
+
+
+.intro_end
+{
+	
+}
+
+.carregando
+{
+	color:#ff0000;
+	display:none;
+}

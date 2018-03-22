@@ -1,0 +1,132 @@
+/*Estilo para tablets*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+
+
+/*Footer*/
+
+.footer_redes ul li a {
+	border: 3px solid #fec63e;
+	display: block;
+	padding: 6px;
+
+}
+
+.footer_redes ul li a img{
+	width: 26px;
+	height: 26px;
+}
+
+
+ /* Final do estilo para tablets */
+
+/*Estilo para smartphone*/
+@media only screen and (max-width: 767px) {
+
+/*Header*/
+.header {
+	position: relative;
+	padding-bottom: 0px;
+}
+
+.header img {
+	margin: 0 auto 8px auto;
+}
+
+.header_menu {
+	text-align: center;
+}
+
+.header_menu ul li {
+	margin: 5px;
+}
+
+.header_menu ul li a {
+	border: 4px solid #000;
+	width: 136px;
+	display: block;
+	float: center;
+}
+
+.header_menu ul li a:hover {
+	border-color: #fff;
+}
+
+.header_menu ul li a.menu_ativo {
+	border-color: #fff;
+}
+
+/*Introducao*/
+
+.introducao h1 {
+	font-size: 36px;
+}
+
+.introducao_home {
+	margin-top: 0px;
+	padding-top: 80px;
+	background: url("fundo.jpg") no-repeat center;
+	background-size: cover;
+	height: 800px;
+}
+
+.intro_start
+{
+	padding-top: 100px;
+}
+
+.introducao_login {
+	margin-top: 0px;
+	padding-top: 60px;
+	height: 500px;
+	background: url("fundo.jpg") no-repeat center;
+	background-size: cover;
+}
+
+.introducao_cadastro {
+	margin-top: 0px;
+	padding-top: 60px;
+	height: 800px;
+	background: url("fundo.jpg") no-repeat center;
+	background-size: cover;
+	padding-right: 40px;
+}
+
+.introducao_compra {
+	margin-top: 0px;
+	padding-top: 80px;
+	height: 900px;
+	background: url("fundo.jpg") no-repeat center;
+	background-size: cover;
+	padding-right: 100px;
+}
+
+.introducao_passagens, .table {
+	margin-top: 0px;
+	padding-top: 60px;
+	height: 900px;
+	background: url("fundo.jpg") no-repeat center;
+	background-size: cover;
+	padding-right: 100px;
+}
+.form_table{display:block; width:auto; overflow-x: auto; white-space: nowrap;}
+
+/*Call*/
+.call {
+	padding-top: 10px;
+}
+
+/*Qualidade Home*/
+
+
+
+/*Contato*/
+
+.contato_form {
+	padding-right: 0px;
+	margin-bottom: 40px;
+}
+
+
+
+} /* Final do estilo para smartphone 

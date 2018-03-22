@@ -1,0 +1,41 @@
+.introducao_login{
+	width: 100%;
+	height: 800px;
+	background: url("fundo.jpg") no-repeat center;
+	background-size: cover;
+	text-align: center;
+	padding-top: 360px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+.introducao_login h1 {
+	font-size: 48px;
+	color: #FFF;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+
+
+/*
+.intro_start
+{
+	padding-top: 40px;
+}
+
+.intro_intro2	
+{
+	height: 550px;
+	margin-top: 90px;
+	text-align: center;
+	padding-top: 150px;
+	float:center;
+	justify-content: center;
+	align-items: center;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+.intro_end
+{
+	
+}*/

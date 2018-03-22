@@ -1,0 +1,25 @@
+.introducao_cadastro{
+	width: 100%;
+	height: 1100px;
+	background: url("fundo.jpg") no-repeat center;
+	background-size: cover;
+	text-align: center;
+	padding-top: 360px;
+	font-family: Georgia, "Times New Roman", serif;
+}
+.introducao_login h1 {
+	font-size: 48px;
+	color: #FFF;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.intro_start
+{
+}
+
+
+.intro_end
+{
+	
+}
